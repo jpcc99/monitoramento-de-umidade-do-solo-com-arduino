@@ -1,3 +1,13 @@
+// TODO fix the header error and go to the site https://www.tinkercad.com/
+/*
+ * Materials:
+ * Arduino Uno R3
+ * LED (digital 2)
+ * LCD 16 x 2 (I2C) Baseado em PCf8574 ( 5v A4 A5)
+ * Soil Moisture Sensor (3v Analog0)
+ * 
+*/
+
 #include <SoftwareSerial.h>
 #include <LiquidCrystal_I2C.h>
 
